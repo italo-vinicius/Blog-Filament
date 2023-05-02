@@ -15,6 +15,6 @@
 
     </section>
 
-    <x-sidebar />
+    <x-side-bar />
 
 </x-app-layout>
