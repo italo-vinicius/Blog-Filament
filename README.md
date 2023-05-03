@@ -4,6 +4,11 @@ Este é um projeto de blog criado usando o framework Laravel e o pacote Filament
 
 O objetivo deste projeto é fornecer uma plataforma para criar e gerenciar conteúdo em um blog de maneira fácil e eficiente.
 
+![image](https://user-images.githubusercontent.com/107862087/236010092-7b78c666-8e64-450c-9fbe-4726a5dca34c.png)
+
+![image](https://user-images.githubusercontent.com/107862087/236010137-0edd5ac9-7a0e-4a84-8605-576e7570e812.png)
+
+
 Tecnologias utilizadas:
 - Laravel 10.8
 - PHP 8.1^
